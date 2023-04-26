@@ -1,2 +1,5 @@
 自分の話をするのは好きではありません
-![ore](images/aaa.jpg)
+![ore][def]
+
+
+[def]: images/aaa.jpg
